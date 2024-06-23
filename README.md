@@ -2,6 +2,9 @@
 Customized Jekyll theme ubuntu for Github blog, created by 'luna-negra'
 <hr>
 
+[sample]
+![img.png](assets/imgs/sample_screen.png)
+
 ### How to Use
 1. Download Git Repository 'jekyll-theme-ubuntu'
 
